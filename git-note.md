@@ -1,4 +1,8 @@
+_____________________________________
+
 //**Basic commands**//
+
+. - all files
 
 git status - check git status
 
@@ -6,6 +10,7 @@ git log - show the commit history for the currently active branch
 
 git remote -v - viser link til GitHub
 
+_____________________________________
 
 //**Upload files**//
 
@@ -15,7 +20,7 @@ git add - add files
 
 git commit - commit files
 
-
+_____________________________________
 
 //**Git branches**//
 
@@ -27,6 +32,7 @@ git checkout BRANCHNAME - gå til anden branch
 
 git merge BRANCHNAME - (puller) filer fra anden branch ind til nuværende.
 
+_____________________________________
 
 //**GitHub**//
 
@@ -38,3 +44,5 @@ git push -u origin main (done first time)
 •main: remote branch name
 
 git push - push til Github
+
+_____________________________________
