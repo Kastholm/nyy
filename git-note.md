@@ -20,6 +20,8 @@ git add - add files
 
 git commit - commit files
 
+git restore **filnavn** - fortryder sidste valg
+
 _____________________________________
 
 //**Git branches**//
@@ -45,5 +47,3 @@ git push -u origin main
 git push - push til Github
 
 _____________________________________
-
-adadad
