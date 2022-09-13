@@ -28,9 +28,9 @@ git branch - Show all branches.
 
 git switch - Skift til anden branch
 
-git checkout BRANCHNAME - gå til anden branch
+git checkout **BRANCHNAME** - gå til anden branch
 
-git merge BRANCHNAME - (puller) filer fra anden branch ind til nuværende.
+git merge **BRANCHNAME** - (puller) filer fra anden branch ind til nuværende.
 
 _____________________________________
 
@@ -38,10 +38,9 @@ _____________________________________
 
 git pull - pull filer ned (før push)
 
-git push -u origin main (done first time)
-•-u: create tracking reference
-•origin: remote repo
-•main: remote branch name
+git remote add origin **LINK**
+git branch -M main
+git push -u origin main
 
 git push - push til Github
 
